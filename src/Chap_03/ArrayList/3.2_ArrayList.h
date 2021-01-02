@@ -1,5 +1,5 @@
-#ifndef __ARRAY_LIST_H__
-#define __ARRAY_LIST_H__
+#ifndef __3.2_ARRAY_LIST_H__
+#define __3.2_ARRAY_LIST_H__
 
 #define TRUE	1
 #define FALSE	0
