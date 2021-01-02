@@ -1,5 +1,5 @@
-#ifndef __3.2_POINT_H__
-#define __3.2_POINT_H__
+#ifndef __POINT_H__
+#define __POINT_H__
 
 typedef struct _point
 {
